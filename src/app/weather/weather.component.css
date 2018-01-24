@@ -1,0 +1,16 @@
+.info {
+    text-align: left;
+    height: 300px;
+    width: 300px;
+    display: inline-block;
+    vertical-align: top;
+}
+
+img {
+    height: 300px;
+    width: 300px;
+}
+
+h1 {
+    color: red;
+}
